@@ -1,0 +1,78 @@
+* {
+    background-color: lightblue;
+}
+
+.header {
+    border: 3px solid white;
+    background-color: white;
+}
+
+.header h1, #header {
+    background-color: white;
+    text-align: center;
+}
+
+.navbar, i {
+    border: 3px solid #be2edd;
+    background-color: #be2edd;
+}
+
+.navbar > #nav-right, span#nav-left {
+    background-color: #be2edd;
+    margin-top: 0%;
+    margin-left: 10px;
+}
+
+.navbar {
+    height: 40px;
+}
+
+#nav-left {
+    float: right;
+}
+
+.first-border {
+    border: 3px solid white;
+    background-color: white;
+    width: 60%;
+    margin: 20px 0px 20px 5px;
+}
+
+.first-border h2, h3, #para__first-border {
+    background-color: white;
+}
+
+.second-border {
+    border: 3px solid white;
+    background-color: white;
+    width: 60%;
+    margin: 20px 0px 20px 5px;
+}
+
+.second-border h2 {
+    background-color: white;
+}
+
+.first-border-left, h2, #first-border-left-i {
+    border: 3px solid white;
+    background-color: white;
+    width: 30%;
+}
+
+.second-border-left {
+    border: 3px solid white;
+    background-color: white;
+    width: 30%;
+}
+
+.third-border-left, #third-border-left-i {
+    border: 3px solid white;
+    background-color: white;
+    width: 30%;
+}
+
+.footer, h4 {
+    border: 3px solid white;
+    background-color: white;
+    text-align: center;
+}

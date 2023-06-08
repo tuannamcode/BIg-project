@@ -1,0 +1,158 @@
+* {
+    background-color: #e9d8f4;
+}
+
+.header {
+    border: 3px solid white;
+    background-color: white;
+    height: 150px;
+    margin: 18px 10px 0px 10px;
+}
+
+.header h1,
+p {
+    background-color: white;
+    text-align: center;
+    color: #0984e3;
+    font-family: Arial;
+}
+
+nav {
+    border: 3px solid #0984e3;
+    background-color: #0984e3;
+    color: white;
+    height: 40px;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0px 10px 0px 10px;
+}
+
+nav span,
+i {
+    background-color: #0984e3;
+    font-family: Arial;
+    margin: 5px 0px 0px 5px;
+}
+
+span#right {
+    margin-left: auto;
+}
+
+.right-body {
+    border: 3px solid white;
+    background-color: white;
+    margin: 20px 20px 20px 10px;
+    width: 70%;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.right-body h2,
+h3,
+p {
+    background-color: white;
+    margin: 20px 10px 20px 10px;
+}
+
+#para {
+    color: black;
+    text-align: left;
+    font-size: larger;
+}
+
+#para-left {
+    color: black;
+    text-align: left;
+}
+
+.right-body-2 {
+    border: 3px solid white;
+    background-color: white;
+    margin: 20px 20px 20px 10px;
+    width: 70%;
+    font-family: Arial;
+    padding: 20px;
+}
+
+.right-body-2 h2 {
+    background-color: white;
+}
+
+.left-body {
+    border: 3px solid white;
+    width: fit-content;
+    background-color: white;
+    font-family: Arial;
+    margin: 20px 10px 20px 0px;
+    width: 400px;
+    padding: 17px;
+}
+
+.left-body img {
+    width: 100%;
+    height: 100%;
+}
+
+.left-body h2,
+ul,
+li,
+i#left-body-icon {
+    background-color: white;
+    list-style: none;
+}
+
+.left-body ul,
+li {
+    padding: none;
+}
+
+.second-left-body {
+    border: 3px solid white;
+    background-color: white;
+    font-family: Arial;
+    width: 395px;
+    padding: 20px;
+    margin: 20px 10px 20px 0px;
+}
+
+.second-left-body h2 {
+    background-color: white;
+}
+
+.second-left-body img {
+    display: flex;
+    width: 100%;
+    margin: 5px;
+}
+
+.third-left-body {
+    border: 3px solid white;
+    background-color: white;
+    width: 30%;
+    margin: 20px 10px 20px 0px;
+    font-family: Arial;
+    padding: 20px;
+    width: 395px;
+}
+
+.third-left-body h2 {
+    background-color: white;
+}
+
+.footer {
+    border: 3px solid white;
+    background-color: white;
+    margin: 0px 10px 0px 10px;
+}
+
+.footer h4 {
+    background-color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+.lb-main {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
